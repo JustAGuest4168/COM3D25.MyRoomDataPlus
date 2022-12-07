@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COM3D25.MyRoomDataPlus", "COM3D25.MyRoomDataPlus\COM3D25.MyRoomDataPlus.csproj", "{350B53BA-8F0F-4D2D-ABF4-0117ADA365A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{1947D50B-92B9-4816-87C6-02B2ACB824DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{350B53BA-8F0F-4D2D-ABF4-0117ADA365A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{350B53BA-8F0F-4D2D-ABF4-0117ADA365A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{350B53BA-8F0F-4D2D-ABF4-0117ADA365A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{350B53BA-8F0F-4D2D-ABF4-0117ADA365A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1947D50B-92B9-4816-87C6-02B2ACB824DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1947D50B-92B9-4816-87C6-02B2ACB824DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1947D50B-92B9-4816-87C6-02B2ACB824DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1947D50B-92B9-4816-87C6-02B2ACB824DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3402E241-5958-456B-8226-5AE81A00B0D6}
+	EndGlobalSection
+EndGlobal
